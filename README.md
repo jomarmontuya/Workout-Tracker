@@ -2,6 +2,10 @@
 
 Workout-Tracker is a Python Module to track workout or habits using natural english language
 
+API Used For Natural Languge  - https://www.nutritionix.com/
+
+API Used For Saving Data to Google Worksheet - https://dashboard.sheety.co/
+
 # Sample Usage
 
 ```bash
